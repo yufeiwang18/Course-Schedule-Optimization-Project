@@ -1,1 +1,1 @@
-Course-Schedule-Optimization-Project
+Course Schedule Optimization Project
